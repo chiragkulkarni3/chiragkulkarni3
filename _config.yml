@@ -1,2 +1,4 @@
 name: Chirag Kulkarni
 markdown: kramdown
+
+theme: jekyll-theme-minimal
